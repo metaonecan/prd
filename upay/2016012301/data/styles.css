@@ -297,4 +297,8 @@
 }
 .line2 {
 }
+.text_field3 {
+  color:#000000;
+  text-align:left;
+}
 textarea, select, input, button, div, svg { outline: none; }
