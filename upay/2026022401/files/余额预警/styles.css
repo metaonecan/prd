@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u712_div {
+#u749_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u712 {
+#u749 {
   border-width:0px;
   position:absolute;
   left:1051px;
@@ -40,14 +40,14 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u712 .text {
+#u749 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u712_text {
+#u749_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
