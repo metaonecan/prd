@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:3854px;
+  width:3874px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -19,10 +19,10 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:1337px;
+  left:0px;
   top:0px;
-  width:2517px;
-  height:1411px;
+  width:1317px;
+  height:1180px;
   display:flex;
   transition:none;
 }
@@ -38,8 +38,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:2517px;
-  height:1411px;
+  width:1317px;
+  height:1180px;
 }
 #u0_text {
   border-width:0px;
@@ -50,10 +50,10 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:1357px;
   top:0px;
-  width:1317px;
-  height:1180px;
+  width:2517px;
+  height:1411px;
   display:flex;
   transition:none;
 }
@@ -69,8 +69,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1317px;
-  height:1180px;
+  width:2517px;
+  height:1411px;
 }
 #u1_text {
   border-width:0px;
